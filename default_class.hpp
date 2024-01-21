@@ -7,7 +7,7 @@ class	className
 
 public:
 	className(className const & src);
-	className	&operator=(className const& rhs);
+	className&	operator=(className const& rhs);
 
 	className(void);
 	~className(void);
