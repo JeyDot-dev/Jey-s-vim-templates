@@ -4,7 +4,7 @@ just a repo containing my own vim templates.
 
 Pull the folder in your HOME (or anywhere else but you'll have to change path in the config)
 ```shell
-git pull https://github.com/JeyDot-dev/Jey-s-vim-templates.git templates
+git clone https://github.com/JeyDot-dev/Jey-s-vim-templates.git templates
 ```
 Then copy the following config to your .vimrc
 ```vimrc
